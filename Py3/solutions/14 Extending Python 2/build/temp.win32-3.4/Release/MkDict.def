@@ -1,0 +1,3 @@
+LIBRARY MkDict.pyd
+EXPORTS
+PyInit_MkDict

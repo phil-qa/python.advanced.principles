@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Mac%20Mini%20HD/Users/Gruff/Music/iTunes/iTunes%20Music/</string>
+	<key>Library Persistent ID</key><string>A3E34B5F05BA3350</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6805</key>
+		<dict>
+			<key>Track ID</key><integer>6805</integer>
+			<key>Name</key><string>Sexcrime (Nineteen Eighty Four)</string>
+			<key>Artist</key><string>Eurythmics</string>
+			<key>Composer</key><string>Eurythmics</string>
+			<key>Album</key><string>1984 (For The Love Of Big Brother)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3874760</integer>
+			<key>Total Time</key><integer>239001</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2005-03-16T15:09:58Z</date>
+			<key>Date Added</key><date>2007-10-28T12:07:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3323520420</integer>
+			<key>Play Date UTC</key><date>2009-04-25T15:07:00Z</date>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1443</integer>
+			<key>Persistent ID</key><string>1333E0BACFA9174D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/Mac%20Mini%20HD/Users/Gruff/Music/iTunes/iTunes%20Music/Eurythmics/1984%20(For%20The%20Love%20Of%20Big%20Brother)/02%20Sexcrime%20(Nineteen%20Eighty%20Four).m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6807</key>
+		<dict>
+			<key>Track ID</key><integer>6807</integer>
+			<key>Name</key><string>Miracles [Extended]</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Miracles</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5597613</integer>
+			<key>Total Time</key><integer>346626</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Date Modified</key><date>2008-08-17T01:17:51Z</date>
+			<key>Date Added</key><date>2007-10-28T12:07:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3325268486</integer>
+			<key>Play Date UTC</key><date>2009-05-15T20:41:26Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2060</integer>
+			<key>Persistent ID</key><string>1333E0BACFA9174F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/Mac%20Mini%20HD/Users/Gruff/Music/iTunes/iTunes%20Music/Pet%20Shop%20Boys/Miracles/01%20Miracles%20%5BExtended%5D.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6809</key>
+		<dict>
+			<key>Track ID</key><integer>6809</integer>
+			<key>Name</key><string>Miracles [Lemon Jelly remix]</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Miracles</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6124134</integer>
+			<key>Total Time</key><integer>379807</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Date Modified</key><date>2008-08-17T01:17:51Z</date>
+			<key>Date Added</key><date>2007-10-28T12:07:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3325268861</integer>
+			<key>Play Date UTC</key><date>2009-05-15T20:47:41Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3244</integer>
+			<key>Persistent ID</key><string>1333E0BACFA91750</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/Mac%20Mini%20HD/Users/Gruff/Music/iTunes/iTunes%20Music/Pet%20Shop%20Boys/Miracles/02%20Miracles%20%5BLemon%20Jelly%20remix%5D.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6811</key>
+		<dict>
+			<key>Track ID</key><integer>6811</integer>
+			<key>Name</key><string>Transparent</string>
+			<key>Artist</key><string>Pet Shop Boys</string>
+			<key>Album</key><string>Miracles</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3766628</integer>
+			<key>Total Time</key><integer>233869</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Date Modified</key><date>2008-08-17T01:17:52Z</date>
+			<key>Date Added</key><date>2007-10-28T12:07:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3325269090</integer>
+			<key>Play Date UTC</key><date>2009-05-15T20:51:30Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1946</integer>
+			<key>Persistent ID</key><string>1333E0BACFA91751</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Creator</key><integer>1752133483</integer>
+			<key>Location</key><string>file://localhost/Volumes/Mac%20Mini%20HD/Users/Gruff/Music/iTunes/iTunes%20Music/Pet%20Shop%20Boys/Miracles/03%20Transparent.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>28097</integer>
+			<key>Playlist Persistent ID</key><string>A3E34B5F05BA3351</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6805</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6807</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6811</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+                        <key>Name</key><string>Music</string>
+                        <key>Playlist ID</key><integer>116343</integer>
+                        <key>Playlist Persistent ID</key><string>C7CAB91A50B72EA9</string>
+                        <key>All Items</key><true/>
+                        <key>Smart Info</key>
+                        <data>
+                        AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                        AAAAAA==
+                        </data>
+                        <key>Smart Criteria</key>
+                        <data>
+                        U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+                        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAABIbEAAAAAAAAAAAAAAAAAAAAB
+                        AAAAAAABIbEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+                        </data>
+                        <key>Playlist Items</key>
+                        <array>
+                                <dict>
+                                        <key>Track ID</key><integer>6805</integer>
+                                </dict>
+                                <dict>
+                                        <key>Track ID</key><integer>6807</integer>
+                                </dict>
+                                <dict>
+                                        <key>Track ID</key><integer>6809</integer>
+                                </dict>
+                                <dict>
+                                        <key>Track ID</key><integer>6811</integer>
+                                </dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Classical</string>
+			<key>Playlist ID</key><integer>61941</integer>ZZ
+			<key>Playlist Persistent ID</key><string>AA8DB1C3A3F0C463</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAACAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAEMAbABhAHMAcwBpAGMAYQBs
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6811</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>On-The-Go</string>
+			<key>Playlist ID</key><integer>62541</integer>
+			<key>Playlist Persistent ID</key><string>2980724B4AD173BE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6805</integer>
+				<dict>
+					<key>Track ID</key><integer>6809</integer>
+				</dict>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

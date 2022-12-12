@@ -1,0 +1,3 @@
+LIBRARY MkList.pyd
+EXPORTS
+PyInit_MkList

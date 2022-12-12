@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><books>
+	<book reference="1234">
+		<title>New Ideas</title>
+		<author>Fred Smith</author>
+		<price>£19.99</price>
+		<PubDate>28/02/2014</PubDate>
+	</book>
+	<book reference="2345">
+		<title>Bad Ideas</title>
+		<author>Joe Bloggs</author>
+		<price>£9.99</price>
+		<PubDate>28/02/2014</PubDate>
+	</book>
+</books>

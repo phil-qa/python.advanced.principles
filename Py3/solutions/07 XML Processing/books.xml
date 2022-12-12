@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book reference="1234">
+		<title>New Ideas</title>
+		<author>Fred Smith</author>
+		<price>&#163;19.99</price>
+	</book>
+	<book reference="2345">
+		<title>Bad Ideas</title>
+		<author>Joe Bloggs</author>
+		<price>&#163;9.99</price>
+	</book>
+</books>
+

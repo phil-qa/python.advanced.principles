@@ -1,11 +1,12 @@
 import glob
 import os
 
+
 def separator(title):
     print(f'\n\n\n\n+++++++++++++{title}++++++++++++++++++++\n')
 
 #source pattern
-pattern = f'C:/program files/*'
+pattern = r'C:/program files/*'
 
 #develop basic list comprehension
 separator('basic list comprehension')

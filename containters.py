@@ -297,6 +297,25 @@ if __name__ == "__main__":
         print("****", err, file=sys.stderr)
 
         # TODO: List comprehensions
+
+    print("the stack as it is ")
+    print(astack)
+    stack_as_list = [item for item in astack ]
+    print("The stack list is ")
+    print(stack_as_list)
+    print("Using list()")
+    stack_as_a_list = list(astack)
+    print(stack_as_list)
+
+    queue_as_a_list = [item for item in aqueue]
+    print("queue as a list")
+    print(queue_as_a_list)
+
+    deque_as_a_list = [item for item in adeque.from_left()]
+    print("deque as a list ")
+    print(deque_as_a_list)
+    deque_as_a_list = [item for item in adeque.from_right()]
+    print(deque_as_a_list)
 '''
 11.	Iterators. Only the iterator functions are shown, which should be the same in either version of Python.
 class Stack(_DLinkList):

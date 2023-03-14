@@ -1,0 +1,7 @@
+<!ELEMENT books (book+)>
+<!ELEMENT book (title, author+,year,rating+,review*)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT rating (0|1|2|3|4|5)>
+<!ELEMENT review (#PCDATA)>

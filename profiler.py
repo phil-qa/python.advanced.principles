@@ -12,12 +12,18 @@ def read_file():
 
     return local_dict
 
+def publish_meanings(meanings):
+    for definition in meanings:
+        print(definition)
+
 
 def profile_this(thing, source, words):
     now = time.time()
+    meanings = []
     print(now)
-    for word in thing(source, words):
-        print(word)
+    for definition in thing(source, words):
+        meanings.append(definition)
+    publish_meanings(meanings)
     new_now = time.time()
     print(new_now)
     time_taken = new_now - now

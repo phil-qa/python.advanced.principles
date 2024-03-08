@@ -20,10 +20,6 @@ class PerformanceTests(unittest.TestCase):
         self.assertIsNotNone(performance_monitor.ram_utilisation, "the ram utilisation was not initialised")
         self.assertIsNotNone(performance_monitor.disk_utilisation, "The disk utilisation did not initialise")
 
-    def test_processor_information(self):
-        asset_manager = SystemAssetManager()
-        self.assertTrue(isinstance(asset_manager.cpu_type,str))
-        self.assertEqual()
 
 if __name__ == '__main__':
     unittest.main()

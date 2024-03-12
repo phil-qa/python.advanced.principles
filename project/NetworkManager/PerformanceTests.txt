@@ -1,5 +1,4 @@
 Hardware Information:
-
 CPU model and speed
 RAM size and type
 Storage (HDD/SSD) capacity and type
@@ -8,22 +7,22 @@ Motherboard model and manufacturer
 BIOS version
 Network interface information (MAC address, speed, etc.)
 Peripheral devices (printers, scanners, etc.)
-Operating System Information:
 
+Operating System Information:
 OS type (Windows, macOS, Linux, etc.)
 OS version and edition
 Patch/update level
 Installed software and versions
 System uptime
 System locale and language settings
-Network Information:
 
+Network Information:
 IP address configuration (IPv4, IPv6)
 Network interface status and speed
 Network bandwidth usage
 Active network connections
-Security Information:
 
+Security Information:
 Antivirus software installed and its status
 Firewall status and configuration
 Security patch status
@@ -35,33 +34,33 @@ RAM usage
 Disk utilization (read/write speed, available space)
 Network bandwidth usage
 Application performance metrics (if applicable)
-Software Licenses:
 
+Software Licenses:
 Installed software licenses and their expiration dates
 License compliance status
-Hardware Health:
 
+Hardware Health:
 Temperature monitoring (CPU, GPU, HDD/SSD)
 Fan speed monitoring
 SMART status for hard drives
-User Information:
 
+User Information:
 User accounts and their permissions
 Last login/logout time
 User activity logs (optional, depending on privacy policies)
-Remote Management:
 
+Remote Management:
 Remote access status (SSH, RDP, VNC, etc.)
 Remote desktop session logs (if applicable)
 Remote execution of commands/scripts
-Location and Asset Tagging:
 
+Location and Asset Tagging:
 Physical location of the device
 Asset tag or unique identifier for tracking purposes
-Power Management:
 
+Power Management:
 Power status (on/off)
 Power consumption metrics (if available)
-Event Logs:
 
+Event Logs:
 System event logs (for troubleshooting and auditing)

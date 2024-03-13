@@ -14,6 +14,9 @@ sizes = [os.path.getsize(file_name) for file_name in glob.iglob(pattern)]
 print(sizes)
 
 
+
+
+
 #develop advanced list comprehension
 separator('advanced list comprehension')
 file_details = [{'name': file_name, 'size': os.path.getsize(file_name)} for file_name in glob.iglob(pattern)]

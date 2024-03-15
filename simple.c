@@ -1,3 +1,5 @@
+// on windows the header file is found if python is in the path
+// on linux there is an additional requirement to implement the python-dev 
 #include <Python.h>
 
 PyObject * Hello(PyObject *, PyObject *); # prototype
